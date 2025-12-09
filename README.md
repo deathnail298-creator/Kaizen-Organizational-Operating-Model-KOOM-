@@ -1,12 +1,12 @@
 Note for Executives and Managers: KOOM works best when paired with training using the Kaizen AI Interation Module. KOOM will still give positive results however they will be amplified with training. 
-# KOOM – Kaizen Organizational Operating Module (Phase 0 Reference Skeleton)
 
+KOOM – Kaizen Organizational Operating Module **Phase 0 Reference Skeleton** (NASA-class, mission-critical, AI+human systems) 
 
-What This Is
+KOOM is **not** a plug-and-play operating model for regular companies. 
 
-KOOM is a complete, modular organizational operating system. Executives and Profesionals should treat this like a Phase 0 for Nasa. This gives you the skeleton and structure that can be taken in whole, in part, swapped out, added on to, and adjusted where needed. The following is the "example" to give readers a continous and structured read. It is not the final product, that is up to you. 
+It is the deliberate, load-bearing **skeletal constitution** meant to be forked and extended by organizations that cannot tolerate role drift, undocumented workflows, or uncontrolled AI (SpaceX Mission Ops, Anduril Lattice, xAI infra, NASA AI directorates, Anthropic alignment teams, DoD JADC2 programs, etc.). 
 
-It paper defines:
+The documents below are the **canonical reference spine** — v1.0 is intentionally rigid and absolutist so nothing can be bolted on ambiguously. Every serious deployment is expected to add flesh, merge roles temporarily, write industry appendices, and relax boundaries where risk allows. That work belongs to your CoE in Phase 1+.
 
 how work flows
 
