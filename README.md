@@ -5,7 +5,8 @@ Note for Executives and Managers: KOOM works best when paired with training usin
 What This Is
 
 KOOM is a complete, modular organizational operating system. Executives and Profesionals should treat this like a Phase 0 for Nasa. This gives you the skeleton and structure that can be taken in whole, in part, swapped out, added on to, and adjusted where needed. The following is the "example" to give readers a continous and structured read. It is not the final product, that is up to you. 
-It defines:
+
+It paper defines:
 
 how work flows
 
