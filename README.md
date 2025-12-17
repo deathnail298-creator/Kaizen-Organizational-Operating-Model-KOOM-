@@ -1,69 +1,75 @@
-Note for Executives and Managers: KOOM works best when paired with training using the Kaizen AI Interation Module. KOOM will still give positive results however they will be amplified with training. 
+# KOOM — Kaizen Organizational Operating Module
 
-KOOM – Kaizen Organizational Operating Module **Phase 0 Reference Skeleton** (NASA-class, mission-critical, AI+human systems) 
+**Phase 0 Reference Skeleton**
+*(NASA-class, mission-critical, AI + human systems)*
 
-KOOM is **not** a plug-and-play operating model for regular companies. 
+---
 
-It is the deliberate, load-bearing **skeletal constitution** meant to be forked and extended by organizations that cannot tolerate role drift, undocumented workflows, or uncontrolled AI (SpaceX Mission Ops, Anduril Lattice, xAI infra, NASA AI directorates, Anthropic alignment teams, DoD JADC2 programs, etc.). 
+## Note for Executives and Managers
 
-The documents below are the **canonical reference spine** — v1.0 is intentionally rigid and absolutist so nothing can be bolted on ambiguously. Every serious deployment is expected to add flesh, merge roles temporarily, write industry appendices, and relax boundaries where risk allows. That work belongs to your CoE in Phase 1+.
+KOOM works best when paired with training using the **Kaizen AI Integration Module**. KOOM will still produce positive results on its own; however, results are consistently amplified when supported by Kaizen training.
 
-how work flows
+---
 
-how roles interact
+## Overview
 
-how decisions move
+**KOOM is not a plug-and-play operating model for typical organizations.**
 
-how AI is safely integrated
+It is a deliberate, load-bearing **operating spine** designed for environments that cannot tolerate role drift, undocumented workflows, uncontrolled AI usage, or ambiguous authority.
 
-how alignment is maintained
+Typical applicability includes (non-exhaustive):
 
-how systems evolve
+* Space and aerospace mission operations
+* Defense and national-security programs
+* Safety-critical infrastructure
+* Regulated, compliance-heavy organizations
+* AI-augmented operations with real failure consequences
 
-how drift is prevented
+KOOM is intended to be **forked, extended, and contextualized**. Version 1.0 is intentionally rigid so nothing can be bolted on ambiguously. All adaptation, relaxation, and domain-specific elaboration belongs to your **Center of Excellence (CoE)** in Phase 1 and beyond.
+
+---
+
+## What KOOM Defines
+
+KOOM explicitly defines:
+
+* How work flows
+* How roles interact
+* How decisions move
+* How AI is safely integrated
+* How alignment is maintained
+* How systems evolve
+* How drift is prevented
 
 It is designed to be:
 
-easy to graft onto any org chart
+* Easy to graft onto any org chart
+* Readable by executives
+* Usable by managers
+* Practical for workers
+* Enforceable by a Center of Excellence
+* Safe for AI adoption
+* Stable under real-world conditions
 
-readable by executives
+KOOM **does not require reorganization**. It overlays onto existing structures without changing reporting lines or departments.
 
-usable by managers
+---
 
-practical for workers
+## Why KOOM Exists
 
-enforceable by a Center of Excellence
+Most organizations operate in a constant state of:
 
-safe for AI adoption
+* Priority whiplash
+* Unclear roles
+* Improvised workflows
+* Uncontrolled AI usage
+* Undocumented steps
+* Inconsistent quality
+* Ambiguous communication
+* Drift between teams
+* Continuous firefighting
 
-stable under real-world conditions
-
-KOOM is not a reorganization model.
-It overlays onto any existing company without reshuffling departments or changing reporting lines.
-
-Why KOOM Exists
-
-Most companies operate in a constant state of:
-
-priority whiplash
-
-unclear roles
-
-improvised workflows
-
-uncontrolled AI usage
-
-undocumented steps
-
-inconsistent quality
-
-ambiguous communication
-
-drift between teams
-
-firefighting in place of structure
-
-KOOM solves these problems by providing a clean, unambiguous operating spine.
+KOOM replaces this with a **clean, unambiguous operating constitution**.
 
 Executives direct.
 Managers interpret.
@@ -73,195 +79,151 @@ Audit verifies truth.
 Governance enforces boundaries.
 AI accelerates without destabilizing.
 
-This is the operating model modern organizations thought they had — but never actually formalized.
+---
 
-The KOOM Spine
+## The KOOM Spine
 
 KOOM is built on four strictly separated layers:
 
-Executive Layer – sets strategy, constraints, and priorities
+* **Executive Layer** — strategy, constraints, priorities
+* **Manager Layer** — interpretation into executable work
+* **Worker Layer** — precise execution under documented workflows
+* **Center of Excellence (CoE)** — workflow design, standards, AI rules
 
-Manager Layer – interprets direction into clear, executable work
+And two stabilizers:
 
-Worker Layer – executes tasks precisely under documented workflows
+* **Governance** — prevents drift
+* **Audit** — ensures reality matches documentation
 
-CoE Layer – designs workflows, standards, training, and AI rules
+Plus two organizational rhythms:
 
-And two cross-cutting stabilizers:
-
-Governance – prevents drift
-
-Audit – ensures reality matches documentation
-
-Plus two org-wide rhythms:
-
-Alignment Cycle – short-term synchronization
-
-Evolution Cycle – structured long-term improvement
+* **Alignment Cycle** — short-term synchronization
+* **Evolution Cycle** — structured long-term improvement
 
 This separation is the core of KOOM.
-It prevents chaos, overlap, and role violation.
 
-Included Modules (Full Framework)
+---
 
-KOOM includes the following files, each self-contained and upload-ready:
+## Included Modules
 
-Worker Layer
+Each module is self-contained and upload-ready:
 
-Manager Layer
+* Worker Layer
+* Manager Layer
+* Executive Layer
+* Center of Excellence (CoE)
+* Task Flow Map
+* AI Integration Layer
+* Metrics & Scorecards
+* Governance & Audit
+* Alignment & Evolution
+* Deployment Readiness
 
-Executive Layer
+---
 
-Center of Excellence (CoE)
+## Who KOOM Is For
 
-Task Flow Map
+**Executives** — clarity without micromanagement
+**Managers** — rules, escalation paths, and stability
+**CoE / Ops / Quality Teams** — formal authority over structure
+**Workers** — clear instructions and AI-safe boundaries
+**AI / Automation Teams** — scalable AI without chaos
+**Consultants / Analysts / Org-Design Engineers** — a complete, modular operating spine
 
-AI Integration Layer
+---
 
-Metrics & Scorecards
+## What KOOM Is Not
 
-Governance & Audit
+* Not a reorganization
+* Not a theory paper
+* Not a management fad
+* Not a consulting package
+* Not a buzzword stack
+* Not a "future of work" gimmick
 
-Alignment & Evolution
+KOOM is a **practical operating model** that organizations can deploy immediately.
 
-Deployment Readiness
+---
 
-Each module is designed to stand alone or integrate into a full operating manual.
+## Deployment Model (Typical)
 
-Who KOOM Is For
-❱ Executives
+1. Train Executives
+2. Train Managers
+3. Activate CoE workflows
+4. Run a pilot team
+5. Scale after verified improvement
 
-For leaders who need clarity, not noise.
-KOOM shows exactly how to direct without micromanaging or breaking the system.
+Deployment Readiness includes full checklists, green flags, and red flags.
 
-❱ Managers
+---
 
-For people stuck juggling unclear tasks and shifting priorities.
-KOOM gives them rules, structure, and escalation logic.
+## Commercialization & Licensing
 
-❱ CoE / Ops / Quality Teams
+### Non-Commercial Use (No License Required)
 
-For the people responsible for standards and workflow design.
-KOOM formalizes their authority and stops drift.
+KOOM may be **used, modified, and deployed internally** for non-commercial purposes, including:
 
-❱ Workers
+* Internal evaluation or pilots
+* Internal operations improvement
+* Internal governance or restructuring
+* Internal employee training
+* Academic or research use
+* Non-profit or unpaid educational use
 
-For anyone who needs clear instructions and stable workflows.
-KOOM defines execution rules and AI-safe boundaries.
+No notification or permission is required for these uses.
 
-❱ AI / Automation Teams
+---
 
-For teams deploying AI at scale without destroying organizational structure.
+### What Counts as Commercialization
 
-❱ Consultants, analysts, and org-design engineers
+A commercialization license is required if KOOM is used in any of the following ways (non-exhaustive):
 
-For professionals who need a complete, modular operating system that isn’t tied to any corporation’s proprietary framework.
+* Incorporated into **paid products, platforms, or software**
+* Used in **client-facing services or deliverables**
+* Referenced in **sales materials, bids, proposals, or marketing**
+* Used as the basis for **paid training, certification, or workshops**
+* Embedded in **consulting, advisory, or transformation engagements**
+* Packaged into **methods, templates, or tooling sold to third parties**
 
-What KOOM Is Not
+If KOOM contributes to external value generation or revenue, it is considered commercial use.
 
-Not a reorg
+---
 
-Not a theory paper
+### Commercialization License
 
-Not a management fad
+* **Type:** One-time commercialization license
+* **Current standard list price:** **$50,000 USD**
+* **Royalties:** None
+* **Renewals:** None
+* **Audits:** None
 
-Not a consulting package
+The price listed above represents the standard, non-exclusive commercialization license. Pricing may vary based on organization size, scope of use, or exclusivity requirements.
 
-Not a buzzword stack
+Commercial licensing is handled directly.
 
-Not a “future of work” gimmick
+---
 
-KOOM is a practical operating model that any company can adopt immediately.
-
-How KOOM Gets Deployed
-
-KOOM can be deployed in three steps:
-
-Train Executives
-
-Train Managers
-
-Activate CoE workflows
-
-Then run a pilot team.
-If alignment, throughput, and clarity improve — scale it.
-
-The Deployment Readiness Layer file includes a full checklist, green flags, and red flags.
-
-What You Can Do With KOOM
-
-Implement it directly in your company
-
-Use it to diagnose organizational failure
-
-Compare your current system against KOOM to find drift
-
-Train new managers and executives
-
-Build AI-assisted workflows safely
-
-Replace consultant-level frameworks with a clearer one
-
-Teach KOOM as an internal operations model
-
-KOOM is open and modular.
-Take what you need, adapt what you want.
-
-License
-
-This project uses the Kaizen Open License (included in repository).
-You may:
-
-Use KOOM internally
-
-Modify it
-
-Extend it
-
-Deploy it
-
-Teach it
-
-Build training around it
-
-Commercial use allowed with license compliance.
-
-Contributions
+## Contributions
 
 Pull requests are welcome if they:
 
-improve clarity
+* Improve clarity
+* Reduce ambiguity
+* Strengthen structure
+* Fix contradictions
+* Enforce boundaries
+* Add practical examples
 
-reduce ambiguity
+---
 
-enhance structure
+## Contact
 
-fix contradictions
+For commercial licensing or collaboration inquiries:
 
-strengthen boundaries
+* **Email:** [nathanrudloff@gmail.com](mailto:nathanrudloff@gmail.com)
+* Or open an Issue on GitHub
 
-or expand practical examples
+---
 
-KOOM’s philosophy is simple:
-
+**KOOM philosophy:**
 Clarify. Simplify. Align. Improve.
-
-Questions, Feedback, Extensions
-
-If you want:
-
-industry-specific templates
-
-example workflows
-
-role-specific one-pagers
-
-diagrams
-
-training paths
-
-audit checklists
-
-implementation roadmaps
-
-Those can be added to the repository upon request.
